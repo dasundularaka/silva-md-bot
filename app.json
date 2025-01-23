@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/SilvaTechB/silva-md-bot",
+  "repository": "https://github.com/dasundularaka/silva-md-bot",
   "stack": "container",
   "env": {
     "OWNERS": {
